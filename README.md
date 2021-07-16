@@ -14,7 +14,7 @@ Discord Channel: https://discord.gg/WurGpKqAhB
  **REQUIREMENTS** 
  
 This resource pack requires:
-- SEUS_PTGI_HRR_TEST_2.1 - https://www.mediafire.com/file/icw5s23e5lq17vb/SEUS_PTGI_HRR_Test_2.1.zip/file.
+- SEUS_PTGI_HRR_TEST_2.1 - https://minecraftshader.com/seus-ptgi-shaders/
 - Optifine Pre28+ - https://optifine.net/downloads
 - Optifabric 1.17.1 - https://www.curseforge.com/minecraft/mc-mods/optifabric
 
