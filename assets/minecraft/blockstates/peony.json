@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "half\u003dlower": [
+      {
+        "model": "block/double_paeonia_bottom"
+      },
+      {
+        "model": "block/double_paeonia_bottom_0"
+      },
+      {
+        "model": "block/double_paeonia_bottom_1"
+      }
+    ],
+    "half\u003dupper": [
+      {
+        "model": "block/double_paeonia_top"
+      },
+      {
+        "model": "block/double_paeonia_top_0"
+      },
+      {
+        "model": "block/double_paeonia_top_1"
+      }
+    ]
+  }
+}

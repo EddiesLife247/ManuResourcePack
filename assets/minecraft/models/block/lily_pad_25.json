@@ -1,0 +1,44 @@
+{
+  "__comment": "Fair_warning,_this_format_is_highly_likely_to_change_even_more_in_the_future!",
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "block/lily_pad_25",
+    "texture": "block/lily_pad_25"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0.25,
+        0
+      ],
+      "to": [
+        16,
+        0.25,
+        16
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            16,
+            16,
+            0,
+            0
+          ],
+          "texture": "#texture",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            16,
+            0,
+            0,
+            16
+          ],
+          "texture": "#texture",
+          "tintindex": 0
+        }
+      }
+    }
+  ]
+}

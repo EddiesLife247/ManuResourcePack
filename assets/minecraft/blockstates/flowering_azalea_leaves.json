@@ -1,0 +1,32 @@
+{
+    "variants": {
+        "distance=1": [
+		{ "model": "block/flowering_azalea_leaves_bushy", "y": 90  }, 
+		{ "model": "block/flowering_azalea_leaves_bushy1", "y": 180 }
+		],
+        "distance=2": [
+		{ "model": "block/flowering_azalea_leaves_bushy", "y": 180  }, 
+		{ "model": "block/flowering_azalea_leaves_bushy1", "y": 180 }
+		],
+        "distance=3": [
+		{ "model": "block/flowering_azalea_leaves_bushy", "y": 270  }, 
+		{ "model": "block/flowering_azalea_leaves_bushy1", "y": 270 }
+		],
+        "distance=4": [
+		{ "model": "block/flowering_azalea_leaves_bushy", "y": 90  }, 
+		{ "model": "block/flowering_azalea_leaves_bushy1", "y": 90 }
+		],
+        "distance=5": [
+		{ "model": "block/flowering_azalea_leaves_bushy", "y": 180  }, 
+		{ "model": "block/flowering_azalea_leaves_bushy1", "y": 180 }
+		],
+        "distance=6": [
+		{ "model": "block/flowering_azalea_leaves_bushy","y": 270  }, 
+		{ "model": "block/flowering_azalea_leaves_bushy1","y": 270 }
+		],
+        "distance=7": [
+		{ "model": "block/flowering_azalea_leaves_bushy", "y": 90  }, 
+		{ "model": "block/flowering_azalea_leaves_bushy1", "y": 90 }
+		]
+    }
+}

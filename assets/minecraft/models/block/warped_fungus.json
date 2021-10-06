@@ -1,0 +1,7 @@
+{
+    "parent": "block/tinted_cross",
+    "textures": {
+        "cross": "block/warped_fungus",
+        "texture": "block/warped_fungus" 
+    }
+}

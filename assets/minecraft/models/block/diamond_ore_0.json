@@ -1,0 +1,7 @@
+{
+  "__comment": "Fair_warning,_this_format_is_highly_likely_to_change_even_more_in_the_future!",
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "block/diamond_ore_0"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/allium"
+      },
+      {
+        "model": "block/allium_0"
+      },
+      {
+        "model": "block/allium_1"
+      },
+      {
+        "model": "block/allium_2"
+      },
+      {
+        "model": "block/allium_3"
+      },
+      {
+        "model": "block/allium_4"
+      },
+      {
+        "model": "block/allium_5"
+      },
+      {
+        "model": "block/allium_6"
+      },
+      {
+        "model": "block/allium_7"
+      },
+      {
+        "model": "block/allium_8"
+      },
+      {
+        "model": "block/allium_9"
+      },
+      {
+        "model": "block/allium_10"
+      },
+      {
+        "model": "block/allium_11"
+      },
+      {
+        "model": "block/allium_12"
+      },
+      {
+        "model": "block/allium_13"
+      },
+      {
+        "model": "block/allium_14"
+      },
+      {
+        "model": "block/allium_15"
+      },
+      {
+        "model": "block/allium_16"
+      },
+      {
+        "model": "block/allium_17"
+      },
+      {
+        "model": "block/allium_18"
+      },
+      {
+        "model": "block/allium_19"
+      }
+    ]
+  }
+}
